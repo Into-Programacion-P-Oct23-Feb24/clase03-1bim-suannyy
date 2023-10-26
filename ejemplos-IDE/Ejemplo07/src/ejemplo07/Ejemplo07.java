@@ -17,7 +17,7 @@ public class Ejemplo07 {
     public static void main(String[] args) {
         // Ejemplo de operador lógico AND
         
-        System.out.println(true && true); // and // true
+        System.out.println(!true && true); // and // true
         System.out.println(true && false); // and // false
         System.out.println(false && true); // and // false
         System.out.println(false && false); // and // false
